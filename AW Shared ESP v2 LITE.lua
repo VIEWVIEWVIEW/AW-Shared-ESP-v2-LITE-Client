@@ -185,6 +185,7 @@ local function fnUpdateSettings()
 	
 	SEVisBox 		= gui.GetValue( "se_vis_box" );
 	SEVisHealth 	= gui.GetValue( "se_vis_health" );
+	SEVisHealthNr 	= gui.GetValue( "se_vis_health_nr" );
 	SEVisName 		= gui.GetValue( "se_vis_name" );
 	SEVisWeapon 	= gui.GetValue( "se_vis_weapon" );
 	SEVisAmmo 		= gui.GetValue( "se_vis_ammo" );
