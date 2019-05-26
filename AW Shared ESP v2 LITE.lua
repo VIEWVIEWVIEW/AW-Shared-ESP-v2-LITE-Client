@@ -36,9 +36,9 @@ local UI_ShareEnemy 				= gui.Checkbox( UI_MultiboxShare, "se_share_enemy", "Ene
 local UI_ShareTeam					= gui.Checkbox( UI_MultiboxShare, "se_share_team", "Team", 1 );
 
 local UI_MultiboxDraw				= gui.Multibox( UI_GroupBox, "Draw" )
-local UI_DrawLP						= gui.Checkbox( UI_MultiboxDraw, "se_draw_localplayer", "Local Player", 0 );
+local UI_DrawLP						= gui.Checkbox( UI_MultiboxDraw, "se_draw_localplayer", "Local Player", 1 );
 local UI_DrawEnemy 					= gui.Checkbox( UI_MultiboxDraw, "se_draw_enemy", "Enemy", 1 )
-local UI_DrawTeam					= gui.Checkbox( UI_MultiboxDraw, "se_draw_team", "Team", 0 );
+local UI_DrawTeam					= gui.Checkbox( UI_MultiboxDraw, "se_draw_team", "Team", 1 );
 
 local UI_DrawOnlyDormant			= gui.Checkbox( UI_GroupBox, "se_draw_only_dormant", "Draw Dormant Players Only", 1 );
 
