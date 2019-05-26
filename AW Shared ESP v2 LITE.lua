@@ -38,9 +38,9 @@ local UI_ShareTeam					= gui.Checkbox( UI_MultiboxShare, "se_share_team", "Team"
 local UI_MultiboxDraw				= gui.Multibox( UI_GroupBox, "Draw" )
 local UI_DrawLP						= gui.Checkbox( UI_MultiboxDraw, "se_draw_localplayer", "Local Player", 0 );
 local UI_DrawEnemy 					= gui.Checkbox( UI_MultiboxDraw, "se_draw_enemy", "Enemy", 1 )
-local UI_DrawTeam					= gui.Checkbox( UI_MultiboxDraw, "se_draw_team", "Team", 1 );
+local UI_DrawTeam					= gui.Checkbox( UI_MultiboxDraw, "se_draw_team", "Team", 0 );
 
-local UI_DrawOnlyDormant			= gui.Checkbox( UI_GroupBox, "se_draw_only_dormant", "Draw Dormant Players Only", 0 );
+local UI_DrawOnlyDormant			= gui.Checkbox( UI_GroupBox, "se_draw_only_dormant", "Draw Dormant Players Only", 1 );
 
 -- Colors UI
 local UI_ColorLP					= gui.ColorEntry( "se_color_lp", "Shared ESP Local Player", 7, 240, 231, 111);
