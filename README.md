@@ -1,4 +1,4 @@
 zesshy best (after swissguy (after polak (after zim)))
 
 
-# e: there won't be any updated due to perma ban from aw 
+# e: there won't be any updates due to perma ban from aw 
