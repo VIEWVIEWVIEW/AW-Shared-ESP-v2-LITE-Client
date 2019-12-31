@@ -1,4 +1,1 @@
-zesshy best (after swissguy (after polak (after zim)))
-
-
-# e: there won't be any updates due to perma ban from aw 
+moved to https://gulli.engineowning.software/lolman/AW-Shared-ESP-v2-LITE-Client/
